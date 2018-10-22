@@ -11,7 +11,7 @@ Version 2.5
 
 
 For the documentation see the corresponding readme.txt or visit
-<http://dkolf.de/src/dkjson-lua.fsl/>.
+<http://dkolf.de/src/dkjasdasdasdasdannnnnnnnnnnnnson-lua.fsl/>.
 
 You can contact the author by sending an e-mail to 'david' at the
 domain 'dkolf.de'.
