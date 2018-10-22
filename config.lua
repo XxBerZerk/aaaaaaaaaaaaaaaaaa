@@ -8,8 +8,7 @@ return {
 	thecatapi_key = '',
 	time_offset = 0,
 	lang = 'en',
-	admin = 73015064,
-	admin_name = 'zotron',
+	admin = 7301wefwefwe 'zotron',
 	about_text = [[
 I am otouto, the plugin-wielding, multi-purpose Telegram bot written by topkecleon.
 
